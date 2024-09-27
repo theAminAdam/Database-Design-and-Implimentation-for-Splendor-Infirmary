@@ -3,7 +3,7 @@
 This repository contains the **Database Design and Implementation Project** for **Splendor Infirmary** patient and medical management system completed by **Splendor Analytics** in september 2024.
 The system is design to efficiently manage hospital data including Patient Information, Doctor Details, Medical Records, Appointments and Departments Data.
 
-## Table of Contents
+## Table of Contents 
 
 1.	[Introduction](#introduction)
 
